@@ -16,3 +16,15 @@ COVERED:
 4. Sheet 4: Support Vector Machines, Neural Networks
 
 The respective reports with all our results are attached as a pdf in each problem task folder.
+
+
+## Results Examples
+
+# PCA to denoise images
+![pca](/example_images_result/pca_results_denoising.png)
+
+# K-Means gets stucked 
+![k-means](/example_images_result/k_means_result.png)
+
+# SVM on MNIST with one vs rest classification
+![svm](/example_images_result/svm_mnist.png)
